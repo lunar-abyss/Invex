@@ -49,4 +49,7 @@ Object.assign(invex.atoms, {
 
 ## Usage
 Any one can use Invex for any purpose, but it's not recommended to use it for anything serious.
-Invex is a language for fun, not for profit (if you somehow able to make a profit with it). 
+Invex is a language for fun, not for profit (if you somehow able to make a profit with it).
+
+## License
+No license yet. So the copyright for this language belongs to me, but any intellectual property based on this project belongs to the creator of this intellectual property.
